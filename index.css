@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Source+Sans+Pro&display=swap');
+
+
+::root {
+    --bg: #fff;
+    --text: #000;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+a{
+    color: var(--text);
+}
+
+body,
+html{
+    background: var(--bg);
+    color: var(--text);
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3vw;
+}
+
+nav .icon{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+nav .link{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-size: 20px;
+}
+
+nav .link a:hover{
+    background-color: rgb(255, 227, 186);
+}
+
+.container-content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 3vw;
+    gap: 40px;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.container-content img{
+    width: 100%;
+    height: auto;
+}
+
+.container-work{
+    padding: 0 3vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    margin-bottom: 40px;
+}
+
+.container-work .work{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    cursor: pointer;
+}
+
+.container-work .work .work-hover{
+    height: 400px;
+    display: none;
+    background-color: rgba(255, 227, 186, 85%);
+    align-items: flex-end;
+    padding: 50px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.container-work .work:hover .work-hover{
+    display: flex;
+}
+
+@media (max-width: 1000px){
+    .container-content{
+        grid-template-columns: 1fr;
+    }
+
+    .container-work{
+        grid-template-columns: 1fr;
+    }
+}
