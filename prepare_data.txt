@@ -1,0 +1,46 @@
+; Copy ข้อความตรงนี้สำหรับ index.html ได้เลยนะ
+; หากฝ่าฝืนจะถูกยิง หากรอดจะถูกยิงซ้ำ 
+
+<b>Address:</b> <br>
+1 Soi Chalongkrung 1,<br>
+Lat Krabang Subdistrict,<br>
+Lat Krabang District,<br>
+Bangkok 10520 <br>
+
+<br>
+
+<b>Email:</b>   
+<a href="mailto:hello@ite.com">hello@ite.com</a> <br>
+
+<br>
+
+<b>Phone:</b> 
+<a href="tel:+6623298000">02 329 8000</a> <br>
+
+<br>
+
+<b>Facebook:</b> 
+<a href="https://web.facebook.com/kmitlofficial/" target="_blank">Kmitlofficial</a> <br>
+
+<br>
+
+<b>Instagram:</b>
+<a href="https://www.instagram.com/kmitlofficial/">@kmitlofficial</a>
+
+
+; Copy ข้อความตรงนี้สำหรับ img ใน work.html ได้เลยนะ
+; หากฝ่าฝืนจะถูกยิง หากรอดจะถูกยิงซ้ำ 
+
+https://images.unsplash.com/photo-1589953605483-a2964c38d415?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80
+
+https://images.unsplash.com/photo-1640163561346-7778a2edf353?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+
+https://images.unsplash.com/photo-1601397922721-4326ae07bbc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
+
+https://images.unsplash.com/photo-1607798748738-b15c40d33d57?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+
+https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+
+https://images.unsplash.com/photo-1620634415912-ec5aa1e89d0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+
+https://images.unsplash.com/photo-1524178232363-1fb2b075b655?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
